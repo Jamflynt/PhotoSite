@@ -28,4 +28,5 @@ img {
     margin: 1.25%;
     /* The float CSS property places an element on the left or right side of its conatiner/parent, allowing text and inline elements to wrap around it. */
     float: left;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 1);
 }
